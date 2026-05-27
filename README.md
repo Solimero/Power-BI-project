@@ -1,7 +1,6 @@
 # Power BI Dashboard Projekt V.2
 
 Interaktivní Power BI dashboard zaměřený na analýzu:
-
 - vývoje mezd
 - cen potravin
 - HDP evropských států
