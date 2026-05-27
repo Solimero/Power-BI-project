@@ -1,12 +1,22 @@
-## Power BI Dashboard
+# Power BI Dashboard Projekt V.2
 
-Součástí projektu je také Power BI dashboard zaměřený na:
-- analýzu mezd
-- ceny potravin
+Interaktivní Power BI dashboard zaměřený na analýzu:
+
+- vývoje mezd
+- cen potravin
 - HDP evropských států
+- kupní síly obyvatel
 
-Dashboard obsahuje:
+Použité technologie
+- Power BI
+- SQL
+- GitHub
+
+Funkce dashboardu
+- propojené datové tabulky
+- kalendářová tabulka
+- DAX measure
 - interaktivní slicery
-- navigaci mezi stránkami
-- KPI karty
+- navigace mezi stránkami
 - mapové vizualizace
+- analýza kupní síly
